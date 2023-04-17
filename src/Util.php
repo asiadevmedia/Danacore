@@ -1,6 +1,6 @@
 <?php
 
-namespace DANA;
+namespace Asiadevmedia\Danacore;
 
 use Exception;
 use Datetime;

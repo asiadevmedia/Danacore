@@ -1,0 +1,16 @@
+{
+    "name": "asiadevmedia/danacore",
+    "description": "script mutasi dana",
+    "homepage": "https://dana.id",
+    "version": "1.0",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Teguh Priyanto"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
